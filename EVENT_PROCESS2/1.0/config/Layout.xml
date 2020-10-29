@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ASCII"?>
+<layout>
+  <subflow name="FIORANO.ESTUDIO.ROOT_FLOW" x="0" y="0">
+    <remote-service-instance name="EVENT_PROCESS1_1_0.Display11" x="358" y="167"/>
+    <groupprocess-instance name="EXTENDED_SERVICE1_1_0" x="87" y="164"/>
+  </subflow>
+  <shortcut-routes/>
+</layout>
